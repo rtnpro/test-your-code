@@ -1,0 +1,3 @@
+[submodule "test_your_code/examples/django"]
+	path = test_your_code/examples/django
+	url = https://github.com/rtnpro/django-poll-example.git
